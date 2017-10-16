@@ -16,6 +16,15 @@ body {
 	transition: all 3s ease;
 }
 
-.container2 {
-	width: 600px;
+.response{
+	display: none;
+	opacity: 0;
+	width: 50%;
+	margin-top: 100px;
+	margin-left: 25%;
+	margin-right:25%;
+}
+
+.next-response {
+	opacity: 0;
 }
