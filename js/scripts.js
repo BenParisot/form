@@ -1,14 +1,13 @@
 $(document).ready(function() {
 
 	$("#blanks form").submit(function() {
-		$("#slide").slideUp("slow", function() {
+		$("#slide").slideUp(1200, function() {
 		});
   event.preventDefault();
 	});
 
 	$("#submit").click(function() {
-		$('body').removeClass();
-		$('body').addClass("red-background", 100000);
+		$('body').addClass('red-background');
 	});
 
 

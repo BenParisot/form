@@ -7,5 +7,15 @@
 }
 
 .red-background {
-	background-color: red;
+	background-color: #b6a2bb;
+	transition: all 5s ease;
+}
+
+body {
+	background-color: white;
+	transition: all 3s ease;
+}
+
+.container2 {
+	width: 600px;
 }
