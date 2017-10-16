@@ -1,3 +1,11 @@
 .jumbotron {
 	text-align:center;
 }
+
+.btn {
+	float: right;
+}
+
+.red-background {
+	background-color: red;
+}
