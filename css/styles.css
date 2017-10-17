@@ -6,9 +6,24 @@
 	float: right;
 }
 
-.red-background {
+.background1 {
 	background-color: #b6a2bb;
 	transition: all 5s ease;
+}
+
+.background2 {
+	background-color: #cee0dc;
+	transition: all 1s ease;
+}
+
+.background3 {
+	background-color: #dcedb9;
+	transition: all 1s ease;
+}
+
+.background4 {
+	background-color: #f6839c;
+	transition: all 1s ease;
 }
 
 body {
@@ -36,3 +51,29 @@ body {
 .response-four {
 	opacity: 0;
 }
+
+.response-five {
+	opacity: 0;
+}
+
+.response-six {
+	opacity: 0;
+}
+
+.response-seven {
+	opacity: 0;
+}
+
+.response-eight {
+	opacity: 0;
+}
+
+.response-nine {
+	opacity: 0;
+}
+
+.response-ten {
+	opacity: 0;
+}
+
+.background1
