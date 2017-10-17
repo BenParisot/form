@@ -24,14 +24,9 @@ $(document).ready(function() {
 
 	$("#submit").click(function() {
 		$('body').addClass('red-background');
-		$('.response').fadeTo(2500, 1, function () {
-			$('.next-response').fadeTo(1200, 1, function () {
-				$('.response-three').fadeTo(1200, 1, function () {
-					$('.response-four').fadeTo(1200, 1);
-				}););
-			}););
+		$('.response').fadeTo(2500, 1, function() {
+			$('.next-response').fadeTo(2500, 1);
 		});
 	});
-
 
 });
